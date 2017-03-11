@@ -6,6 +6,8 @@ public class GUI {
 
 		System.out.println("first commit");
 		System.out.println("second commit");
+		System.out.println("download the second commit");
+
 
 	}
 
